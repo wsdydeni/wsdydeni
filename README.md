@@ -5,4 +5,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsdydeni&repo=CustomViewCollection)](https://github.com/wsdydeni/CustomViewCollection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsdydeni&repo=AndroidBaseLibrary)](https://github.com/wsdydeni/AndroidBaseLibrary)
 
-![](https://image.wsdydeni.top/orange.jpg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsdydeni&layout=compact)](https://github.com/wsdydeni/AndroidBaseLibrary)
